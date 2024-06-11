@@ -1,0 +1,7 @@
+{
+  "*.{ts,tsx,js,jsx}": [
+    "yarn format",
+    "yarn lint:staged",
+    "yarn build"
+  ]
+}
